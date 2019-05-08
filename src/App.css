@@ -1,0 +1,23 @@
+.app {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	outline: none;
+}
+
+.calc {
+	width: 25rem;
+	border: 1px solid #888888;
+	border-radius: 1rem;
+}
+
+.rows {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+
+.clear {
+	display: flex;
+}
