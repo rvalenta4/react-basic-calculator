@@ -1,4 +1,4 @@
-# React Basic Calculator
+# React Calculator
 
 ## This application was built using
 
